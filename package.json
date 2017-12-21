@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "* js模块\r * 模块加载,AMD和CMD\r * nodejs模块和es6模块\r ### nojs内置模块\r * fs,path模块的使用\r * http模块的使用\r ### npm\r * npm常用命令 init install \r * package.json文件解析\r ### 使用现有第三方模块，\r * 通过express构建一个简易http服务器\r ## 代码风格\r * 使用javascript stard style",
+  "main": "http-test.js",
+  "scripts": {
+    "start": "node http-test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
